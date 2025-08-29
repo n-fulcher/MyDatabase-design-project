@@ -1,4 +1,4 @@
-### MyDatabase-design-project
+# MyDatabase-design-project
 ## Project Overview  
 This database was designed to track workouts, exercises, trainers, and fitness goals in an organized way.  
 The schema uses junction tables (like trainer_clients, plan_exercises, and session_exercises) to handle many-to-many relationships, keeping the data clean and avoiding repeats. Keys and constraints link everything together so users, trainers, workout plans, and sessions connect properly.  
